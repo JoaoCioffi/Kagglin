@@ -1,3 +1,9 @@
+
+COLAB DIRECT LINK:
+<https://colab.research.google.com/drive/1z1pU5ujV4HwrzY-3rG70FO080efzMZTv?usp=sharing>
+
+
+
 _______________________________________________
 >>> Kickstarter Project - Crowdfunding Data <<<
 _______________________________________________
