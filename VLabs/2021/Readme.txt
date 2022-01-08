@@ -1,3 +1,5 @@
+COLAB DIRECT LINK: https://colab.research.google.com/drive/1sR6PDVHM4KQZG0YD1ly_OrAyEtDG-7h7#scrollTo=zl8N4-d5OzRf
+
 
 
 # **VLabs Data Challenge | 2021** 👨‍💻
