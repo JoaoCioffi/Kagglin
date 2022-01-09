@@ -3,4 +3,5 @@ Just some Analysis using:
 - Medium (https://medium.com/),
 - UCI (https://archive.ics.uci.edu/ml/index.php),
 - Towards Data Science (https://towardsdatascience.com)
+- Machine Hack (https://machinehack.com/)
 - Hackathons and other Data Lakes.
