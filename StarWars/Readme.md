@@ -3,8 +3,6 @@
 
 > https://www.kaggle.com/jsphyg/star-wars
 
-> https://www.kaggle.com/xvivancos/eda-star-wars-data-set
-
 
 ```
       _                                      
