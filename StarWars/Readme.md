@@ -1,3 +1,5 @@
+COLAB DIRECT LINK: https://colab.research.google.com/drive/1c9TxR49ZFoEK7Fin7eh07hn7S-y1e4wd?usp=sharing
+
 # Database for Star Wars Analysis
 ---
 
@@ -55,3 +57,14 @@ Five .csv files. Some can be joined -- for example, characters to their home pla
 Acknowledgements:
 
 This data was gathered using the Star Wars API that is no longer available. The origin of the data is The Star Wars Wiki: https://starwars.fandom.com/wiki.
+
+
+---
+# Main Libraries
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+<div style="display: inline_block"><br> 
+    
+</div>
+
+---
