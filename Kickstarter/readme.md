@@ -4,7 +4,7 @@ COLAB DIRECT LINK:
 
 
 _______________________________________________
->>> Kickstarter Project - Crowdfunding Data <<<
+>>> Kickstarter Project - Crowdfunding Data
 _______________________________________________
 
 <https://www.kaggle.com/kemical/kickstarter-projects>
