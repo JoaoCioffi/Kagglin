@@ -1,3 +1,5 @@
+COLAB DIRECT LINK: https://colab.research.google.com/drive/1eCwMbdf0AA6agy0YR8wRxuK_556msyal?usp=sharing
+
 
 # Introdução ao Problema:
 
