@@ -37,3 +37,13 @@ Input variables (based on physicochemical tests):
 >> * [1] P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
 Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 >> * [2] A paisagem que deu nome ao vinho. Source: https://revistaadega.uol.com.br/artigo/a-paisagem-que-deu-nome-ao-vinho_2744.html
+
+---
+# Main Libraries
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+<div style="display: inline_block"><br> 
+    
+</div>
+
+---
