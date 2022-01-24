@@ -20,3 +20,14 @@
 
 > Aquisição dos dados:
 >> Para usar um exemplo realista, tomaremos como base dados meteorológicos registrados em Seattle de 2011~2017 através do NOAA Climate Data Online. Geralmente, cerca de 80% do tempo gasto na análise de dados é para limpar e recuperar dados, mas essa carga de trabalho pode ser reduzida ao encontrar fontes de dados de alta qualidade. A ferramenta NOAA é surpreendentemente fácil de usar e os dados de temperatura podem ser baixados como arquivos csv limpos que podem ser analisados em linguagens como Python ou R. O arquivo de dados completo está disponível para download para aqueles que desejam acompanhar: https://drive.google.com/file/d/1pko9oRmCllAxipZoa3aoztGZfPAD2iwj/view
+
+
+---
+# Main Libraries
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+<div style="display: inline_block"><br> 
+    
+</div>
+
+---
