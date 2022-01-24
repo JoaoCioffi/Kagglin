@@ -42,7 +42,7 @@ As Airbnb is one of the most popular choices for accommodation amongst tourists 
 3. What factors influence the price of Airbnb accommodation in Amsterdam?
 
 ---
-# Libraries
+# Main Libraries
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 <div style="display: inline_block"><br> 
